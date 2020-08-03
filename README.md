@@ -1,5 +1,5 @@
-# Space Race
-Multi-player web application created as Google CSSI Final Project
+# Welcome to Space Race!
+Multi-player web application created as our Google CSSI Final Project
 
 ## Game Play
 Features: multiplayer, single player (gesture based and arrow based)
@@ -24,6 +24,6 @@ Features:
 - Waiting room for multiplayer and public server created with websockets and node.js
 - Gesture based single player utilizes Google's Teachable Machine API
 
-## Play the game at https://spacerace-cssifinalproject.glitch.me/
+Play the game at https://spacerace-cssifinalproject.glitch.me/
 
 ## Made with [Glitch](https://glitch.com/) 
