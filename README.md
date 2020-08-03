@@ -24,6 +24,6 @@ Features:
 - Waiting room for multiplayer and public server created with websockets and node.js
 - Gesture based single player utilizes Google's Teachable Machine API
 
-### Play the game at [Space Race] (https://spacerace-cssifinalproject.glitch.me/)
+## Play the game at https://spacerace-cssifinalproject.glitch.me/
 
 ## Made with [Glitch](https://glitch.com/) 
