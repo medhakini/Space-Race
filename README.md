@@ -23,7 +23,7 @@ On the back-end,
 
 Features:
 
-- Waiting room for multiplayer and public server created with websockets and node.js, hosted on Glitch
+- Waiting room for multiplayer and public server created with Websockets and Node.js, hosted on Glitch
 - Gesture based single player utilizes Google's Teachable Machine API
 
 Play the game at https://spacerace-cssifinalproject.glitch.me/
